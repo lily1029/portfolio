@@ -1,4 +1,19 @@
 body {
-    background-color: yellow;
+    background-color: #f3f4f6;
     margin: 0;
+
 }
+
+nav {
+    color:black;
+    border: 1px solid white;
+    -webkit-box-shadow: -6px 11px 15px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -6px 11px 15px -12px rgba(0,0,0,0.75);
+    box-shadow: -6px 11px 15px -12px rgba(0,0,0,0.75);;
+    display: flex;
+    background-color: white;
+    font-weight: bold;
+    height: 90px; 
+}
+
+
