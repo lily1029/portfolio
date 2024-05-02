@@ -37,6 +37,13 @@ nav ul a {
     text-decoration: none;
     color: black;
 }
+
 .sideContainer {
     display: flex;
 }
+
+img {
+    margin-top: 50PX;
+    margin-left: 150px;
+}
+
