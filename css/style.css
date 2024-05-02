@@ -45,7 +45,11 @@ nav ul a {
 img {
     margin-top: 50PX;
     margin-left: 150px;
-    border-radius: 50%;
-    
+    border-radius: 50%;  
+}
+
+section {
+    margin-top: 50px;
+    margin-left: 200px;
 }
 
