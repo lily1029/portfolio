@@ -12,7 +12,6 @@ nav {
     box-shadow: -6px 11px 15px -12px rgba(0,0,0,0.75);;
     display: flex;
     background-color: white;
-    font-weight: bold;
     height: 90px; 
 }
 
@@ -25,7 +24,7 @@ nav ul li a:hover {
 nav ul {
     display: flex;
     list-style-type: none;
-    margin: auto;
+    /* margin: auto; */
     color: black;
 }
 
@@ -36,7 +35,7 @@ nav ul li {
 nav ul a {
     text-decoration: none;
     color: black;
-    font-size: 25px;
+    font-size: 20px;
     float: left;
     padding: 25px;
 }
