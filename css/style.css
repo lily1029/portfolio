@@ -24,8 +24,9 @@ nav ul li a:hover {
 nav ul {
     display: flex;
     list-style-type: none;
-    /* margin: auto; */
     color: black;
+    margin-left: 50px;
+
 }
 
 nav ul li {
