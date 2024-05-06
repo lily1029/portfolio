@@ -57,6 +57,12 @@ section {
     margin-left: 150px;
 }
 
+.detailInfo {
+    display: flex;
+    flex-direction: column;
+
+}
+
 p {
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
