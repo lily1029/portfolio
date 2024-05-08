@@ -84,7 +84,11 @@ p {
 }
 
 div #info {
-    height: 50px;
+    height: 60px;
+}
+
+.location {
+    margin-top: 40px;
 }
 
 
