@@ -83,5 +83,9 @@ p {
     text-decoration: none;
 }
 
+div #info {
+    height: 60px;
+}
+
 
 
