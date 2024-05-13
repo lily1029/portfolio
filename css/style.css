@@ -91,5 +91,13 @@ div #info {
     margin-top: 40px;
 }
 
+.project {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
 
 
