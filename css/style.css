@@ -92,9 +92,7 @@ div #info {
 }
 
 .project {
-    display: flex;
-    flex-direction: column;
-    
+    display: flex; 
 }
 
 
